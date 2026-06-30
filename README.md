@@ -5,6 +5,8 @@ Distribution Version	| 16.0
 Kernel Version	| 6.12.0-160000.35-default
 Architecture	| x86\_64
 OpenZFS Version	| zfs-2.4.3-1
+Created | 2026-06-30
+Updated | 2026-06-30
 
 <!-- toc -->
 - [1. POOL ERSTELLEN](#1-pool-erstellen)
